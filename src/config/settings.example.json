@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://wellfound.com/jobs",
+    "paginationLimit": 50,
+    "timeout": 5000
+}
