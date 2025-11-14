@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Software Engineer",
+    "primaryRoleTitle": "Software Engineer",
+    "jobType": "full-time",
+    "locationNames": ["Palo Alto"],
+    "remote": false,
+    "compensation": "$148k – $222k",
+    "company": {
+      "name": "EarnIn",
+      "companySize": "SIZE_201_500",
+      "highConcept": "Make financial momentum accessible to everyone",
+      "companyUrl": "http://earnin.com/",
+      "twitterUrl": "https://twitter.com/earnin",
+      "facebookUrl": "https://www.facebook.com/earninofficial/",
+      "linkedInUrl": "https://www.linkedin.com/company/2837417/",
+      "totalRaisedAmount": 190100000,
+      "total_jobs": 76,
+      "tags": [
+        { "name": "financial services", "displayName": "Financial Services" },
+        { "name": "e-commerce", "displayName": "E-Commerce" }
+      ],
+      "perks": [
+        { "category": "healthcare", "title": "Health/Vision/Dental Benefits" },
+        { "category": "parental_leave", "title": "Parental Leave" }
+      ],
+      "locations": [
+        { "name": "cincinnati", "displayName": "Cincinnati" },
+        { "name": "palo alto", "displayName": "Palo Alto" }
+      ]
+    }
+  }
+]
