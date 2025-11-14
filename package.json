@@ -1,0 +1,15 @@
+{
+  "name": "advanced-wellfound-companies-jobs-scraper",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "jest": "^28.0.0"
+  }
+}
